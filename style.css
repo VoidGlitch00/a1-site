@@ -1,0 +1,76 @@
+body{
+  margin: 0;
+}
+button{
+  height: 50px;
+  width: 180px;
+  font-size: 18px;
+  color: white;
+  background-image: linear-gradient(45deg, orange, crimson, orange);
+  border-radius: 10px;
+}
+p{
+  font-size: 18px;
+  text-align: justify;
+}
+.parent-one{
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+.section-one{
+  width: 50%;
+  margin: 0 auto;
+  font-family: 'Special Elite', cursive;
+  font-size: 40px;
+  
+}
+.section-one img{
+  width: 80%;
+  margin-left: 100px;
+}
+.inside-header{
+  margin-top: 100px;
+  margin-left: 30px;
+}
+#stick{
+  width: 4px;
+  height: 150px;
+  background-color: rgb(233, 46, 13);
+  margin-top: -216px;
+  margin-left: -18px;
+  border-radius: 100px;
+}
+.details-one{
+  font-size: 22px;
+  margin-top: 40px;
+}
+.section-header{
+  font-size: 27px;
+  font-family: 'Special Elite', cursive;
+  margin-top: 5%;
+}
+.parent-two{
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+.three-box{
+  height: 400px;
+  width: 600px;
+  background-color:gray;
+  margin-right: 30px;
+  margin-bottom: 5%;
+  border-radius: 30px;
+}
+.resolutions{
+  width: 50%;
+  height: 50%;
+  margin-left: 20px;
+}
+.three-box-about{
+  margin-left: 10%;
+  margin-right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+}
