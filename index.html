@@ -76,6 +76,7 @@
     </div>
   </section>
   <h2 align="center" id="contact-header">Contact</h2>
+  <div id="column-style"></div>
   <section class="parent">
     <div id="contact">
       <h4 class="loc-email-call">Location:</h4>
@@ -86,10 +87,12 @@
       <p>0123456789</p>
     </div>
     <div id="contact-info">
-      <input type="text" id="name" placeholder="   Your Name">
-      <input type="email" id="email" placeholder="   Your Email"><br>
+      <div id="name-email">
+        <input type="text" id="name" placeholder="   Your Name">
+      <input type="email" id="email" placeholder="   Your Email">
+      </div>
       <input type="text" id="subject" placeholder="   Subject"><br>
-      <input type="text" id="message" placeholder="   If you have any query or anything to say, feel free to send a message..."><br>
+      <textarea id="msg-box" placeholder="  If you have any query or anything to say, feel free to send a message..."></textarea><br>
       <button id="send-message">Send Message</button>
     </div>
   </section>
