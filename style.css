@@ -13,7 +13,7 @@ p{
   font-size: 18px;
   text-align: justify;
 }
-.parent-one{
+.parent{
   display: flex;
   width: 80%;
   margin: 0 auto;
@@ -50,11 +50,6 @@ p{
   font-family: 'Special Elite', cursive;
   margin-top: 5%;
 }
-.parent-two{
-  display: flex;
-  width: 80%;
-  margin: 0 auto;
-}
 .three-box{
   height: 400px;
   width: 600px;
@@ -73,4 +68,20 @@ p{
   margin-right: 10%;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 22px;
+}
+.right-shapes{
+  width: 450px;
+  margin-top: 50px;
+}
+.shape-side-details{  
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  margin-top: 100px;
+  margin-left: 80px;
+}
+.half-shape{
+  width: 18%;
+  margin-top: 95px;
+  margin-left: 30px;
+  margin-bottom: -400px;
 }
