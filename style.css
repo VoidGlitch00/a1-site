@@ -23,7 +23,6 @@ p{
   margin: 0 auto;
   font-family: 'Special Elite', cursive;
   font-size: 40px;
-  
 }
 .section-one img{
   width: 80%;
@@ -84,4 +83,35 @@ p{
   margin-top: 95px;
   margin-left: 30px;
   margin-bottom: -400px;
+}
+.fourth-details{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  margin-top: 100px;
+  margin-right: 80px;
+}
+.third-image img{
+  width: 450px;
+  margin-top: 80px;
+  margin-bottom: 25%;
+}
+.round-shape{
+  width: 15%;
+  margin-left: 80%;
+  margin-bottom: -600px;
+}
+.final-header{
+  height: 150px;
+  background-color:black;
+  color: white;
+  font-family: 'Special Elite', cursive;
+  font-size: 30px;
+}
+#final{
+  margin-top: -40px;;
+}
+footer{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  opacity: 70%;
 }
